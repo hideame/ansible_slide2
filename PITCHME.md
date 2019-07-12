@@ -1,5 +1,5 @@
 # Ansible
-### LAMP環境構築用 Ansible Playbook
+#### LAMP環境構築用 Ansible Playbook
 
 ---?gist=https://gist.github.com/hideame/ba159a16b60cf8efe9b9faf823b6ede3=Scala&title=web-01_lamp_playbook.yml
 
